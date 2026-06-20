@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/trouwpak-op-maat</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://bespoke-canvas-charm.lovable.app/trouwpak-op-maat"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://bespoke-canvas-charm.lovable.app/costume-mariage-sur-mesure"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bespoke-canvas-charm.lovable.app/custom-wedding-suits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bespoke-canvas-charm.lovable.app/custom-wedding-suits"/>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/costume-mariage-sur-mesure</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://bespoke-canvas-charm.lovable.app/trouwpak-op-maat"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://bespoke-canvas-charm.lovable.app/costume-mariage-sur-mesure"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bespoke-canvas-charm.lovable.app/custom-wedding-suits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bespoke-canvas-charm.lovable.app/custom-wedding-suits"/>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/custom-wedding-suits</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://bespoke-canvas-charm.lovable.app/trouwpak-op-maat"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://bespoke-canvas-charm.lovable.app/costume-mariage-sur-mesure"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bespoke-canvas-charm.lovable.app/custom-wedding-suits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bespoke-canvas-charm.lovable.app/custom-wedding-suits"/>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/maatpak-op-maat</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://bespoke-canvas-charm.lovable.app/maatpak-op-maat"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://bespoke-canvas-charm.lovable.app/costume-sur-mesure"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bespoke-canvas-charm.lovable.app/bespoke-suits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bespoke-canvas-charm.lovable.app/bespoke-suits"/>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/costume-sur-mesure</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://bespoke-canvas-charm.lovable.app/maatpak-op-maat"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://bespoke-canvas-charm.lovable.app/costume-sur-mesure"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bespoke-canvas-charm.lovable.app/bespoke-suits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bespoke-canvas-charm.lovable.app/bespoke-suits"/>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/bespoke-suits</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://bespoke-canvas-charm.lovable.app/maatpak-op-maat"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://bespoke-canvas-charm.lovable.app/costume-sur-mesure"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bespoke-canvas-charm.lovable.app/bespoke-suits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bespoke-canvas-charm.lovable.app/bespoke-suits"/>
+  </url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/maatpak/leuven</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/maatpak/brussel</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/maatpak/antwerpen</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/maatpak/mechelen</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/maatpak/hasselt</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/maatpak/aarschot</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/maatpak/tienen</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/maatpak/diest</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/editorial</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/blog/the-art-of-first-impression</loc><priority>0.6</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/blog/understanding-premium-fabrics</loc><priority>0.6</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/blog/grooms-guide-bespoke</loc><priority>0.6</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/blog/seasonal-style-autumn</loc><priority>0.6</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/blog/shoulder-construction-explained</loc><priority>0.6</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/blog/tailored-shirt-difference</loc><priority>0.6</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/blog/what-to-expect-first-visit</loc><priority>0.6</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/blog/fabric-care-bespoke-suit</loc><priority>0.6</priority></url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://bespoke-canvas-charm.lovable.app/over-ons"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://bespoke-canvas-charm.lovable.app/a-propos"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bespoke-canvas-charm.lovable.app/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bespoke-canvas-charm.lovable.app/about"/>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/over-ons</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bespoke-canvas-charm.lovable.app/a-propos</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/zakelijk</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/legal</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/juridisch</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/mentions-legales</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bespoke-canvas-charm.lovable.app/fr/binnenkort</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+</urlset>
